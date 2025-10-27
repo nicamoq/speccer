@@ -1,4 +1,4 @@
-﻿-- LocalScript (StarterPlayer -> StarterPlayerScripts)
+-- LocalScript (StarterPlayer -> StarterPlayerScripts)
 -- Compact square spectate UI with default camera, pastel health ring, white text, remembers last spectated player, title tooltip, animated health, clipboard flash
 local Players = game:GetService("Players")
 local UserInputService = game:GetService("UserInputService")
